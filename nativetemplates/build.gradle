@@ -1,4 +1,4 @@
-apply plugin: 'com.android.library'
+@layout/gnt_small_template_view
 
 android {
     compileSdkVersion 30
